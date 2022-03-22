@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Bernardo Moura
 
-- 🔭 Procurando emprego como Dev Full Stack Jr
+- 🔭 Formação Dev FullStack em andamento
 - 🌱 Estudando JavaScript
 
 <div align="center">
